@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60362763688",
+    "project_id": "my-baust-c6a16",
+    "storage_bucket": "my-baust-c6a16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60362763688:android:d71f8eb18650082120419d",
+        "android_client_info": {
+          "package_name": "com.example.my_campus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp2UAwn87ADzAtOprtMD-dGLbmd1Me-pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
